@@ -14,6 +14,7 @@
 	"pivotal_workstation::google_chrome",
 	"pivotal_workstation::homebrew",
 	"pivotal_workstation::inputrc",
+	"pivotal_workstation::irb",
 	"pivotal_workstation::linked_project_recipe",
 	"pivotal_workstation::linked_workstation_recipe",
 	"pivotal_workstation::mysql",
