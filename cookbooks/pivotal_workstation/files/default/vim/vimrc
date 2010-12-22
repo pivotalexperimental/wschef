@@ -17,11 +17,11 @@ set incsearch
 set backspace=indent,eol,start " Allow backspacing over autoindent, line breaks and start of insert action
 
 set visualbell
-set virtualedit=all
+set virtualedit=onemore
 
-" set t_Co=256 " 256 colors, this is great with iTerm, but XTerm can't do it.
+"set t_Co=256 " 256 colors, this is great with iTerm, but XTerm can't do it.
 set background=dark
-colorscheme vividchalk
+colorscheme ir_black
 
 call pathogen#runtime_append_all_bundles()
 
