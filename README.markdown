@@ -1,3 +1,7 @@
+Deprecation Warning
+===============
+wschef has become an organ donor - much of the 'how to run chef-solo easily' part has made it into [soloist](https://github.com/mkocher/soloist) and the recipes have grown up and moved over to the pivotal account's [pivotal_workstation](https://github.com/pivotal/pivotal_workstation) repository.
+
 Core Goals
 ==========
 
@@ -49,3 +53,7 @@ The best way to use wschef is to capture requirements in your project, so they a
     ln -s YOUR_PROJECT_DIR/chef   ~/wschef/cookbook_links/project_cookbook
     cd ~/wschef
     ./run
+
+License
+======
+All code is provided under the MIT License.
